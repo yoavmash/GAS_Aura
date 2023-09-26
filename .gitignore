@@ -1,0 +1,38 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Platforms
+*/Saved
+*/Script
+Aura/Content/*
+!Aura/Content/_Game/
+
+###########################
+# Unreal Generated Assets #
+###########################
+
+#######################
+# Visual studio Files #
+#######################
+*/.vs
+Aura/.vsconfig
+Aura/Aura.sln
+
+################################
+# Visual studio Code Mac Files #
+################################
+*/.vscode
+Aura/Aura.code-workspace
+
+################################
+# Mac Files #
+################################
+.DS_Store
+*/.DS_Store
+*/.ignore
+Aura/Config/.DS_Store
+Aura/Config/HoloLens/.DS_Store
